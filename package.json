@@ -1,0 +1,9 @@
+{
+ "name": "unit-calculator",
+ "scripts": {
+  "dev": "nuxt"
+ },
+ "dependencies": {
+  "nuxt": "^2.14.4"
+ }
+}
